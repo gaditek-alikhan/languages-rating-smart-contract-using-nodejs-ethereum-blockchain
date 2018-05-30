@@ -24,7 +24,7 @@ For complete tutorial please visit my linkedin post >> [Smart Contract For Ratin
 
 [Node.js Parallel Processing With Casper.js For Data Mining](https://www.linkedin.com/pulse/nodejs-parallel-processing-casperjs-data-mining-ali-khan)</br>
 
-##### developed by: Ali Khan (Full Stack Developer, Senior Software Engineer, Data Scientist, Solutions Architect, Javascript Expert, Content Writer) <br/>
-##### Linkedin: pk.linkedin.com/in/p2palikhan <br/>
-##### Skype: ali-gaditek <br/>
-##### Cell: +923123740430 <br/>
+##### Developed by: Ali Khan (Full Stack Developer, Senior Software Engineer, Data Scientist, Solutions Architect, Javascript Expert, Content Writer)
+##### Linkedin: pk.linkedin.com/in/p2palikhan
+##### Skype: ali-gaditek
+##### Cell: +923123740430
