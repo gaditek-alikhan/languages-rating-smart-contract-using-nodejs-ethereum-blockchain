@@ -9,7 +9,7 @@
 	solcjs: a Node.js library and command-line tool that is used to compile solidity files.
 	jquery: a cross-platform JavaScript library designed to simplify the client-side scripting of HTML.
 
-For complete tutorial please visit my linkedin post >> [Smart Contract For Rating Programming Languages Using Nodejs & Ethereum Blockchain](https://pk.linkedin.com/in/p2palikhan) <br/>
+For complete step by step tutorial please visit my linkedin post >> [Smart Contract For Rating Programming Languages Using Nodejs & Ethereum Blockchain](https://pk.linkedin.com/in/p2palikhan) <br/>
 
 # Other Popular Readings Are:<br>
 [Facebook Graph Data Analysis Of Popular Fan Pages Using Kmeans Clustering Algorithm & Nodejs](https://www.linkedin.com/pulse/facebook-graph-data-analysis-popular-fan-pages-using-kmeans-ali-khan)<br/>
