@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Smart Contract For Rating Programming Languages Using Nodejs & Ethereum Blockchain</title>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+  <style>
+  div#transactions-list {box-shadow: 5px 10px 30px -6px #888888; font-size:13px; font-weight:bold;}
+  div#transactions-list ul {box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin:5px;padding:5px;}
+  div#transactions-list ul li {list-style-type: none;}
+
+  </style>
+</head>
+<body class="container">
+  <h3>Smart Contract For Rating Programming Languages Using Nodejs & Ethereum Blockchain</h3>
+  <div class="table-responsive">
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Languages</th>
+          <th>Total Ratings Count</th>
+		  <th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Java</td>
+          <td id="Java"></td>
+		  <td><a href="#" onclick="rateForLanguage('Java')" class="btn btn-primary">Rate Now</a></td>
+        </tr>
+        <tr>
+          <td>PHP</td>
+          <td id="PHP"></td>
+		  <td><a href="#" onclick="rateForLanguage('PHP')" class="btn btn-primary">Rate Now</a></td>
+        </tr>
+		<tr>
+          <td>Nodejs</td>
+          <td id="Nodejs"></td>
+		  <td><a href="#" onclick="rateForLanguage('Nodejs')" class="btn btn-primary">Rate Now</a></td>
+        </tr>
+		<tr>
+          <td>Python</td>
+          <td id="Python"></td>
+		  <td><a href="#" onclick="rateForLanguage('Python')" class="btn btn-primary">Rate Now</a></td>
+        </tr>
+		<tr>
+          <td>Javascript</td>
+          <td id="Javascript"></td>
+		  <td><a href="#" onclick="rateForLanguage('Javascript')" class="btn btn-primary">Rate Now</a></td>
+        </tr>
+		<tr>
+          <td>Solidity</td>
+          <td id="Solidity"></td>
+		  <td><a href="#" onclick="rateForLanguage('Solidity')" class="btn btn-primary">Rate Now</a></td>
+        </tr>
+		<tr>
+          <td>Ruby</td>
+          <td id="Ruby"></td>
+		  <td><a href="#" onclick="rateForLanguage('Ruby')" class="btn btn-primary">Rate Now</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
+  <h3>Transactions List</h3>
+  <div id="transactions-list"></div>
+  <!--
+  <input type="text" id="language" />
+  <a href="#" onclick="rateForLanguage()" class="btn btn-primary">Rate Language</a>
+  -->
+  
+  
+  
+</body>
+<script src="https://cdn.rawgit.com/ethereum/web3.js/develop/dist/web3.js"></script>
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script>
+<script src="./index.js"></script>
